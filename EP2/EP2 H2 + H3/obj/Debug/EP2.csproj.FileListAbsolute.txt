@@ -1,0 +1,7 @@
+C:\Users\Tomáš\source\repos\EP2\bin\Debug\EP2.exe.config
+C:\Users\Tomáš\source\repos\EP2\bin\Debug\EP2.exe
+C:\Users\Tomáš\source\repos\EP2\bin\Debug\EP2.pdb
+C:\Users\Tomáš\source\repos\EP2\obj\Debug\EP2.csprojAssemblyReference.cache
+C:\Users\Tomáš\source\repos\EP2\obj\Debug\EP2.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\source\repos\EP2\obj\Debug\EP2.exe
+C:\Users\Tomáš\source\repos\EP2\obj\Debug\EP2.pdb
