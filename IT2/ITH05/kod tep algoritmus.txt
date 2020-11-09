@@ -1,0 +1,57 @@
+//Ze signalu vytvarime tep prumerem peti hodnot.
+//Pokud je tep nizsi nez 70 pridej Lek_jedna
+//Pokud je tep vyssi nez 110 pridej Lek_dva
+//Na vstup = konec, zastav program
+//Po zastavení programu vypiš všechny naměřené hodnoty tepu.
+
+
+
+double signal=0;
+List <int> tep;
+int pole[5];
+run = true;
+temp=0;
+int pozice=0;
+while(run ==true)
+{
+ if(pocetcyklu<5)
+ {
+     pole [pocetcyklu] = signal;
+     pocetcyklu++;
+ }
+ else
+ {
+     for(int i=0;i<pole.Length();i++)
+     {
+         temp = temmp +1;
+     }
+     int tep = temp /5;
+     vsechnytepy.Add(tep);
+
+     if(tep<70)
+     {
+         Pridej(Lek_jedna);
+     }
+     if else(tep>110)
+     {
+         Pridej(Lek_dva);
+     }
+
+    if(Vstup_z_konzole==stop)
+         {
+            run = false;
+         }
+    else
+         {
+             pocetcyklu=0;
+             temp=0;
+         }
+
+ }
+}
+
+for(int i=0; i<vsechnytepy.Length();i++)
+{
+    print(Namerena hodnota tepu je={0},vsechnytepy[i])
+}
+pause();
