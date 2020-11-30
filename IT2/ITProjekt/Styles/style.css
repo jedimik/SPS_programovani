@@ -1,0 +1,69 @@
+html,
+body {
+    background-color: #b8f7ff;
+}
+
+
+/*TODO:zjistit
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');*/
+
+.header {
+    position: relative;
+    top: -8px;
+    height: 150px;
+    width: 100%;
+    background-image: radial-gradient(circle, rgb(91, 142, 238), rgb(90, 230, 248), rgb(86, 252, 238));
+}
+
+.header h1 {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: 'Yellowtail', cursive;
+    letter-spacing: 20px;
+    text-align: center;
+}
+
+.footer {
+    /* Dat na bottom */
+    position: relative;
+}
+
+.footer p {
+    font-size: 15px;
+    text-align: center;
+    background-color: #8fe6f1;
+}
+
+
+/*
+.prvnitabulka {
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+}
+
+.prvnitabulka th {
+    border: 1px solid rgb(197, 17, 17);
+    font-size: 25px;
+}
+
+.prvnitabulka td {
+    border: 1px solid rgb(49, 22, 199);
+    text-align: left;
+    height: 15px;
+    width: 150px;
+}
+
+.prvnitabulka tr:hover {
+    background-color: rgb(212, 60, 192);
+}
+*/
+
+
+/* TODO
+.prvnitabulka tr {
+    border-color: rgb(83, 17, 17);
+}*/
