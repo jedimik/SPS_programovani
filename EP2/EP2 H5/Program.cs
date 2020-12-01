@@ -11,44 +11,83 @@ namespace EP2
     {
         static void Main(string[] args)
         {
-            var control = 1;
-            while (control!=0)
-            {/*
-                //Eukliduv algoritmus
-                long a;
-                long b;
-                long tmp;
-                Console.WriteLine("Napis nam prvni promennou:");
-                a = Int64.Parse(Console.ReadLine());
-                Console.WriteLine("Napis nam druhou promennou:");
-                b = Int64.Parse(Console.ReadLine());
-
-                if (a > b)
-                {
-
-                }
-                else
-                {
-                    tmp = a;
-                    a = b;
-                    b = tmp;
-                }
-
-                while (b != 0)
-                {
-                    Console.Write("{0}  /  {1} =",a,b);
-                    tmp = a % b;
-                    a = b;
-                    Console.Write(" {0}*CeloCisNasobek + {1}\n", b, tmp);
-                    b = tmp;
-                }
-
-                Console.WriteLine("\nNejvetsi spolecny delitel je:{0}\n", a);
-                control = Int32.Parse(Console.ReadLine());
+            int[] pole = new int[20];
+            var rand = new Random();
+            for (int i = 0; i < pole.Count(); i++)
+            {
+                pole[i] = rand.Next(1, 999);
+                // Console.WriteLine("Hodnota na pozici {0} je rovna={1}", i, pole[i]); //Kontrolni vypis z pole
+                Console.Write(" {0} ", pole[i]);
             }
-            Console.WriteLine("Program konci");
+            int kontrola = 1;
+            int tmp;
+            int pocetkroku=0;
+            while (kontrola != 0 )
+            {
+                pocetkroku += 1;
+                kontrola = 0;
+
+                for (int i = 0; i < pole.Count()-1; i++)
+                {
+                    if (pole[i] < pole[i + 1])
+                    {
+                        tmp = pole[i + 1];
+                        pole[i + 1] = pole[i];
+                        pole[i] = tmp;
+                        kontrola = kontrola + 1;
+                    }
+                }
+            }
+
+            Console.WriteLine("\nMame serazeno za pocet kroku:{0}",pocetkroku);
+            for (int i = 0; i < pole.Count(); i++)
+            {
+                Console.Write(" {0} ", pole[i]);
+            }
+
+
             Console.ReadKey();
-                */
+
+
+
+            //Eukliduv algoritmus
+            /* var control = 1;
+             while (control != 0)
+             {
+                 long a;
+                 long b;
+                 long tmp;
+                 Console.WriteLine("Napis nam prvni promennou:");
+                 a = Int64.Parse(Console.ReadLine());
+                 Console.WriteLine("Napis nam druhou promennou:");
+                 b = Int64.Parse(Console.ReadLine());
+
+                 if (a > b)
+                 {
+
+                 }
+                 else
+                 {
+                     tmp = a;
+                     a = b;
+                     b = tmp;
+                 }
+
+                 while (b != 0)
+                 {
+                     Console.Write("{0}  /  {1} =",a,b);
+                     tmp = a % b;
+                     a = b;
+                     Console.Write(" {0}*CeloCisNasobek + {1}\n", b, tmp);
+                     b = tmp;
+                 }
+
+                 Console.WriteLine("\nNejvetsi spolecny delitel je:{0}\n", a);
+                 control = Int32.Parse(Console.ReadLine());
+             }
+             Console.WriteLine("Program konci");
+             Console.ReadKey();
+                 */
             /*
             //Binarni prohledavani
             List<int> list_cisel = new List<int>();
@@ -97,7 +136,7 @@ namespace EP2
                             break;
                         }
                     }
-                    
+
                 }
 
             }
@@ -113,7 +152,7 @@ namespace EP2
             }
             else { Console.WriteLine("Prvek nikde neni, bohuzel"); }
 
-            
+
             Console.ReadLine();
             */
             //Linearni prohledavani 
@@ -140,7 +179,7 @@ namespace EP2
                     adresa = i;
                     break;
                 }
-                
+
             }
             if (adresa >= 0)
             {
@@ -155,3 +194,4 @@ namespace EP2
         }
     }
 }
+
