@@ -1,0 +1,23 @@
+.loginForm {
+    display: block;
+    margin: auto;
+    position: relative;
+    top: 30px;
+    width: 500px;
+}
+
+.loginForm form {
+    text-align: center;
+    margin: auto;
+    border: solid black 1px;
+    background-image: linear-gradient(to right, rgb(10, 53, 243), rgb(97, 223, 240));
+}
+
+.loginForm label {
+    font-size: 25px;
+}
+
+.loginForm input {
+    padding: 8px 100px;
+    text-align: center;
+}

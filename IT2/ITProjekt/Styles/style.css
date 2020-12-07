@@ -1,5 +1,7 @@
 html,
 body {
+    height: 100%;
+    width: 100%;
     background-color: #b8f7ff;
 }
 
@@ -28,13 +30,45 @@ body {
 
 .footer {
     /* Dat na bottom */
-    position: relative;
+    width: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -250px;
+    border-style: dotted;
+    border-width: 5px;
+    bottom: 0;
 }
 
 .footer p {
-    font-size: 15px;
+    color: black;
     text-align: center;
-    background-color: #8fe6f1;
+    font-size: 15px;
+}
+
+.navbar {
+    position: relative;
+    background-image: radial-gradient(circle, rgb(91, 142, 238), rgb(90, 230, 248), rgb(86, 252, 238));
+    height: 35px;
+    width: 100%;
+    top: -5px;
+}
+
+.btns button {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(19, 19, 175, 0.6979166666666667) 0%, rgba(0, 212, 255, 1) 100%);
+    position: relative;
+    float: right;
+    top: 1px;
+    margin: 0px 5px;
+    padding: 4px 11px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Texturina', serif;
+    /* font-size: 15px;*/
+}
+
+.btns button:hover {
+    background-color: rgb(6, 6, 245);
 }
 
 

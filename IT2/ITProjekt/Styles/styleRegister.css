@@ -1,0 +1,20 @@
+.registerForm {
+    display: block;
+    margin: auto;
+    width: 600px;
+}
+
+.registerForm label {
+    font-size: 25px;
+}
+
+.registerForm form {
+    text-align: center;
+    border: solid black 1px;
+    background-color: rgb(21, 208, 214);
+}
+
+.registerForm input {
+    padding: 10px 150px;
+    text-align: center;
+}
