@@ -1,0 +1,7 @@
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EP12\bin\Debug\EP12.exe.config
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EP12\bin\Debug\EP12.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EP12\bin\Debug\EP12.pdb
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EP12\obj\Debug\EP12.csprojAssemblyReference.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EP12\obj\Debug\EP12.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EP12\obj\Debug\EP12.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EP12\obj\Debug\EP12.pdb
