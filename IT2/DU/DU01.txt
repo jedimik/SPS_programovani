@@ -1,0 +1,5 @@
+Vytvoř mi tedy html dokument s css sešitem, kde:
+Budeš mít nadpis (písmo Robota, velikosti 35px, zarovnaný vlevo, tučně zvýrazněný a podtržený) s textem: Moje trénovací stránka
+Pod nadpis vlož obrázek (vlastní výběr) tak, aby byl v místě nadpisu a byl průsvitný (V google: css opacity) tak, aby bylo možné přečíst nadpis - Bude to vypadat spíše jako vodoznak a na něm ten nadpis.
+Vlož, vlevo zarovnaný, hypertextový odkaz na seznam.cz, a pojmenuj ho - Můj tajný odkaz. Vzhled si nastav, jaký budeš chtít, ale nastav také vzhled, když jen na odkaz najedeš (v Google: css hover)
+Vlož doprostřed stránky tabulku se čtyřmi sloupci a pěti řádky (data si naplň, jaká budeš chtít), uděláš ji červené ohraničení (pouze na tabulku, tak aby to nezasahovalo zbytečně někam dál) a můžeš si ještě trochu vyhrát s jejím vzhledem.
