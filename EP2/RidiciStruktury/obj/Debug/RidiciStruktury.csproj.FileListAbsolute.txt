@@ -1,0 +1,7 @@
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\RidiciStruktury\bin\Debug\RidiciStruktury.exe.config
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\RidiciStruktury\bin\Debug\RidiciStruktury.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\RidiciStruktury\bin\Debug\RidiciStruktury.pdb
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\RidiciStruktury\obj\Debug\RidiciStruktury.csprojAssemblyReference.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\RidiciStruktury\obj\Debug\RidiciStruktury.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\RidiciStruktury\obj\Debug\RidiciStruktury.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\RidiciStruktury\obj\Debug\RidiciStruktury.pdb
