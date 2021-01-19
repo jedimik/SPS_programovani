@@ -1,0 +1,7 @@
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EPH13\bin\Debug\EPH13.exe.config
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EPH13\bin\Debug\EPH13.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EPH13\bin\Debug\EPH13.pdb
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EPH13\obj\Debug\EPH13.csprojAssemblyReference.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EPH13\obj\Debug\EPH13.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EPH13\obj\Debug\EPH13.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EPH13\obj\Debug\EPH13.pdb

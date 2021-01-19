@@ -1,0 +1,7 @@
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EPH14\bin\Debug\EPH14.exe.config
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EPH14\bin\Debug\EPH14.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EPH14\bin\Debug\EPH14.pdb
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EPH14\obj\Debug\EPH14.csprojAssemblyReference.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EPH14\obj\Debug\EPH14.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EPH14\obj\Debug\EPH14.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\EPH14\obj\Debug\EPH14.pdb
