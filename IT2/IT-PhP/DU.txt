@@ -1,0 +1,7 @@
+1) Napište funkci, která na vstupu bude načítat počet a stringový řetězec. Následně vypíše tolikrát, kolikrát je počet, stringový řetězec.
+
+2) Napište funkci, která na vstupu bude načítat počet a stringový řetězec. Následně vypíše tolikrát, kolikrát je počet, stringový řetězec. A vrátí počet, který vypíšeme zvlášť.
+
+3) Napište funkci, která na vstupu bude načítat počet a stringový řetězec. Následně vypíše tolikrát, kolikrát je počet, stringový řetězec. A vrátí string. řetězec, který vypíšeme zvlášť.
+
+4) Napište funkci, která na vstupu bude načítat počet a stringový řetězec. Následně vypíše tolikrát, kolikrát je počet, stringový řetězec. Vrátí pole vypsaných stringů + k nim připíše pozici.
