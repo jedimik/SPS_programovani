@@ -1,0 +1,7 @@
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H15\bin\Debug\H15.exe.config
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H15\bin\Debug\H15.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H15\bin\Debug\H15.pdb
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H15\obj\Debug\H15.csprojAssemblyReference.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H15\obj\Debug\H15.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H15\obj\Debug\H15.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H15\obj\Debug\H15.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\Fce\bin\Debug\Fce.exe.config
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\Fce\bin\Debug\Fce.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\Fce\bin\Debug\Fce.pdb
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\Fce\obj\Debug\Fce.csprojAssemblyReference.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\Fce\obj\Debug\Fce.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\Fce\obj\Debug\Fce.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\Fce\obj\Debug\Fce.pdb
