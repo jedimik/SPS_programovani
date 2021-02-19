@@ -10,13 +10,13 @@ namespace RidiciStruktury
     {
         static void Main(string[] args)
         {
-            int hodnota = 75;
+            int hodnota = 150;
             int puvodnihodnota = hodnota;
-            int podminka = 2;
-            int podminka1 = 5;
-            int podminka2 = 50;
-            int odecet1 = 4;
-            int odecet2 = 8;
+            int podminka = 3;
+            int podminka1 = 25;
+            int podminka2 = 65;
+            int odecet1 = 8;
+            int odecet2 = 10;
             int value = 0;
             for (int i = 0; i < podminka; i++)
             {
@@ -39,11 +39,11 @@ namespace RidiciStruktury
             Console.WriteLine("Prvni:" + value);
 
             hodnota = 100;
-            podminka = 10;
-            podminka1 = 30;
-            podminka2 = 2;
-            odecet1 = 7;
-            odecet2 = 5;
+            podminka = 23;
+            podminka1 = 60;
+            podminka2 = 3;
+            odecet1 = 9;
+            odecet2 = 12;
             value = 0;
 
             while (hodnota > podminka) //
@@ -67,9 +67,9 @@ namespace RidiciStruktury
             }
             Console.WriteLine("Druha: " + value);
 
-            podminka = 5;
+            podminka = 8;
             podminka1 = 3;
-            podminka2 = 4;
+            podminka2 = 2;
             value = 0;
             for (int i = 0; i < podminka; i++)
             {

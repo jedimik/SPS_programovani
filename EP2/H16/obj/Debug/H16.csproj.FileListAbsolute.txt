@@ -1,0 +1,7 @@
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H16\bin\Debug\H16.exe.config
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H16\bin\Debug\H16.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H16\bin\Debug\H16.pdb
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H16\obj\Debug\H16.csprojAssemblyReference.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H16\obj\Debug\H16.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H16\obj\Debug\H16.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H16\obj\Debug\H16.pdb
