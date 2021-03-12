@@ -1,0 +1,7 @@
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H17\bin\Debug\H17.exe.config
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H17\bin\Debug\H17.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H17\bin\Debug\H17.pdb
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H17\obj\Debug\H17.csprojAssemblyReference.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H17\obj\Debug\H17.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H17\obj\Debug\H17.exe
+C:\Users\Tomáš\Documents\GitHub\SPS\EP2\H17\obj\Debug\H17.pdb
