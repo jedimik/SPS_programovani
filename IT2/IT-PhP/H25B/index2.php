@@ -1,5 +1,9 @@
 <?php
 session_start();
+if(!isset($_SESSION['username']))
+{
+    header("Location: index.php");
+}
 //Omezit pristup na index2.php pouze pro prihlasene uzivatele
 ?>
 <!DOCTYPE html>
