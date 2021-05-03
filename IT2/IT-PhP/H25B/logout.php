@@ -6,6 +6,8 @@ if($_SERVER['REQUEST_METHOD']=="POST")
     {  
         setcookie("userlogin","",time()-3600);
         $_SESSION=[];  
+        unset($_SESSION['password']);
+        //session_destroy();
         header("Location: index.php");             
     }
 }  

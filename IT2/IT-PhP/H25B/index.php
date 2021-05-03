@@ -26,6 +26,21 @@ else
 <input type="password" name="password" required><br>
 <input type="submit" name="login" value="Prihlasit se">
 </form>
+<!-- Vytvorte form pro registraci 
+    Pro dva vstupni textz
+    a tlacitko
+-->
+
+<form action="regpassword.php" method="POST">
+<label for="pwd"> HEslo </label><br>
+<input type="password" name="pwd" required><br>
+<label for="pwd"> Heslo znovu </label><br>
+<input type="password" name="pwdCheck" required><br>
+<input type="submit" name="register" value="Registrovat">
+</form>
+
+
+
 <?php
 if(isset($_SESSION['errmessage']))
 {

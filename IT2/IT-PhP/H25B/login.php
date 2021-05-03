@@ -1,8 +1,14 @@
 <?php
 session_start();
 $GLOBALS['usr'] = "root";
-$GLOBALS['pwd'] = "Abc/d3fG"; //Definuj nove heslo pro DU
-
+if(isset($_SESSION['password']))
+{
+    $pwd=$_SESSION['password'];
+}
+else
+{
+    $pwd = "heslo"; //Definuj nove heslo pro DU
+}
 if($_SERVER['REQUEST_METHOD']=="POST")
 {
     if($usr == trim($_POST['username']," ") && $pwd==$_POST['password'])
