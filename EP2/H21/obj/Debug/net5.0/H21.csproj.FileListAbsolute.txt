@@ -1,0 +1,16 @@
+C:\Users\krajc\source\repos\H21\bin\Debug\net5.0\H21.exe
+C:\Users\krajc\source\repos\H21\bin\Debug\net5.0\H21.deps.json
+C:\Users\krajc\source\repos\H21\bin\Debug\net5.0\H21.runtimeconfig.json
+C:\Users\krajc\source\repos\H21\bin\Debug\net5.0\H21.runtimeconfig.dev.json
+C:\Users\krajc\source\repos\H21\bin\Debug\net5.0\H21.dll
+C:\Users\krajc\source\repos\H21\bin\Debug\net5.0\ref\H21.dll
+C:\Users\krajc\source\repos\H21\bin\Debug\net5.0\H21.pdb
+C:\Users\krajc\source\repos\H21\obj\Debug\net5.0\H21.csprojAssemblyReference.cache
+C:\Users\krajc\source\repos\H21\obj\Debug\net5.0\H21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krajc\source\repos\H21\obj\Debug\net5.0\H21.AssemblyInfoInputs.cache
+C:\Users\krajc\source\repos\H21\obj\Debug\net5.0\H21.AssemblyInfo.cs
+C:\Users\krajc\source\repos\H21\obj\Debug\net5.0\H21.csproj.CoreCompileInputs.cache
+C:\Users\krajc\source\repos\H21\obj\Debug\net5.0\H21.dll
+C:\Users\krajc\source\repos\H21\obj\Debug\net5.0\ref\H21.dll
+C:\Users\krajc\source\repos\H21\obj\Debug\net5.0\H21.pdb
+C:\Users\krajc\source\repos\H21\obj\Debug\net5.0\H21.genruntimeconfig.cache

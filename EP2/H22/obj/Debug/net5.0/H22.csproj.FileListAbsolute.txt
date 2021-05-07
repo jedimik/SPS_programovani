@@ -1,0 +1,16 @@
+C:\Users\krajc\source\repos\H22\bin\Debug\net5.0\H22.exe
+C:\Users\krajc\source\repos\H22\bin\Debug\net5.0\H22.deps.json
+C:\Users\krajc\source\repos\H22\bin\Debug\net5.0\H22.runtimeconfig.json
+C:\Users\krajc\source\repos\H22\bin\Debug\net5.0\H22.runtimeconfig.dev.json
+C:\Users\krajc\source\repos\H22\bin\Debug\net5.0\H22.dll
+C:\Users\krajc\source\repos\H22\bin\Debug\net5.0\ref\H22.dll
+C:\Users\krajc\source\repos\H22\bin\Debug\net5.0\H22.pdb
+C:\Users\krajc\source\repos\H22\obj\Debug\net5.0\H22.csprojAssemblyReference.cache
+C:\Users\krajc\source\repos\H22\obj\Debug\net5.0\H22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krajc\source\repos\H22\obj\Debug\net5.0\H22.AssemblyInfoInputs.cache
+C:\Users\krajc\source\repos\H22\obj\Debug\net5.0\H22.AssemblyInfo.cs
+C:\Users\krajc\source\repos\H22\obj\Debug\net5.0\H22.csproj.CoreCompileInputs.cache
+C:\Users\krajc\source\repos\H22\obj\Debug\net5.0\H22.dll
+C:\Users\krajc\source\repos\H22\obj\Debug\net5.0\ref\H22.dll
+C:\Users\krajc\source\repos\H22\obj\Debug\net5.0\H22.pdb
+C:\Users\krajc\source\repos\H22\obj\Debug\net5.0\H22.genruntimeconfig.cache
